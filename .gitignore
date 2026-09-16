@@ -1,0 +1,11 @@
+*.exe
+*.obj
+*.o
+.vs/
+bin/
+build/
+cmake-build-*/
+.idea/
+.DS_Store
+lab1
+task_variant
